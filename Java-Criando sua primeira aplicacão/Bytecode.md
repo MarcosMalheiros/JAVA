@@ -1,4 +1,4 @@
-tag: #java 
+## Bytecode
 
 O bytecode, também conhecido como código portátil ou p-code, é um código intermediário gerado durante o processo de desenvolvimento de software. Ao contrário do código de máquina, ele não é diretamente executável pelo hardware do computador.
 
